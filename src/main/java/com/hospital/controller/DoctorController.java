@@ -46,6 +46,8 @@ public class DoctorController {
 //		
 //	}
 	
+	//
+	
 	
 	@GetMapping("/all")
 	public ResponseEntity<List<Doctor>> getAllDoctors(){
